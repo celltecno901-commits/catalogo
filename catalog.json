@@ -1,0 +1,187 @@
+{
+  "version": 2,
+  "featured": [
+    "atlante-2025",
+    "reality-engineer",
+    "resident-doctor-2024"
+  ],
+  "titles": [
+    {
+      "id": "atlante-2025",
+      "type": "movie",
+      "title": "Atlante",
+      "originalTitle": "Atlante",
+      "year": 2025,
+      "durationMinutes": 8,
+      "rating": 7.0,
+      "ageRating": "ATP",
+      "genres": [
+        "Animación",
+        "Ciencia ficción",
+        "Drama"
+      ],
+      "collection": "Animación abierta",
+      "trending": true,
+      "synopsis": "En un futuro lejano, pasado, presente y futuro se mezclan en un viaje simbólico sobre el tiempo y la esperanza. Corto realizado en Blender por David Berti.",
+      "director": "David Berti",
+      "cast": [
+        "David Berti"
+      ],
+      "archiveId": "atlante_2025",
+      "file": "atlante_2025.mp4",
+      "accent": "#38BDF8",
+      "legal": "Creative Commons BY-ND 4.0"
+    },
+    {
+      "id": "la-cosmogonia-de-un-sueno",
+      "type": "movie",
+      "title": "La cosmogonía de un sueño",
+      "originalTitle": "La Cosmogonia Di Un Sogno",
+      "year": 2026,
+      "durationMinutes": 8,
+      "rating": 6.8,
+      "ageRating": "13+",
+      "genres": [
+        "Animación",
+        "Fantasía",
+        "Surrealista"
+      ],
+      "collection": "Animación abierta",
+      "trending": true,
+      "synopsis": "Un viaje contemplativo por el mundo de los sueños, inspirado en el surrealismo. Un corto sobre la impermanencia, la memoria y el sentido de la vida.",
+      "director": "David Berti",
+      "cast": [
+        "David Berti"
+      ],
+      "archiveId": "lacosmogoniadiunsogno",
+      "file": "lacosmogoniadiunsogno.ia.mp4",
+      "accent": "#A78BFA",
+      "legal": "Creative Commons BY-NC 4.0"
+    },
+    {
+      "id": "begin-again-2026",
+      "type": "movie",
+      "title": "Begin Again",
+      "originalTitle": "Begin Again",
+      "year": 2026,
+      "durationMinutes": 5,
+      "rating": 6.8,
+      "ageRating": "ATP",
+      "genres": [
+        "Animación",
+        "Ciencia ficción",
+        "Comedia"
+      ],
+      "collection": "Novedades abiertas",
+      "trending": true,
+      "synopsis": "Robots malvados, ingenieros de software y reuniones interminables. Una pequeña comedia sobre resolver problemas imposibles sin recurrir a las armas.",
+      "director": "Lynn Cole",
+      "cast": [
+        "Lynn Cole"
+      ],
+      "archiveId": "begin-again_202606",
+      "file": "Begin-again-1080-archive-org.mp4",
+      "accent": "#34D399",
+      "legal": "Creative Commons BY-SA 4.0"
+    },
+    {
+      "id": "reality-engineer",
+      "type": "movie",
+      "title": "The Reality Engineer",
+      "originalTitle": "The Reality Engineer",
+      "year": 2026,
+      "durationMinutes": 3,
+      "rating": 6.6,
+      "ageRating": "ATP",
+      "genres": [
+        "Comedia",
+        "Ciencia ficción"
+      ],
+      "collection": "Novedades abiertas",
+      "synopsis": "Un científico intenta mejorar la vida humana alterando la realidad, pero cada buena intención desata un caos mayor. Comedia de Konstantin Gaponov.",
+      "director": "Konstantin Gaponov",
+      "cast": [
+        "Konstantin Gaponov"
+      ],
+      "archiveId": "the-reality-engineer",
+      "file": "The Reality Engineer.mp4",
+      "accent": "#FBBF24",
+      "legal": "CC0 1.0 (dominio público)"
+    },
+    {
+      "id": "boots-western-front",
+      "type": "movie",
+      "title": "Botas en el frente occidental",
+      "originalTitle": "The Boots on the Western Front",
+      "year": 2026,
+      "durationMinutes": 3,
+      "rating": 6.9,
+      "ageRating": "16+",
+      "genres": [
+        "Bélico",
+        "Drama",
+        "Histórico"
+      ],
+      "collection": "Novedades abiertas",
+      "synopsis": "Un corto antibélico sobre el horror de la guerra moderna y su impacto en la mente humana, inspirado en la novela Sin novedad en el frente.",
+      "director": "Thomas Biamonte",
+      "cast": [
+        "Thomas Biamonte"
+      ],
+      "archiveId": "all-quiet",
+      "file": "ALL QUIET _720p.mp4",
+      "accent": "#A3A3A3",
+      "legal": "Creative Commons BY 4.0"
+    },
+    {
+      "id": "stars-are-warm",
+      "type": "movie",
+      "title": "The Stars Are Warm, The Earth Lies Cold",
+      "originalTitle": "The Stars Are Warm The Earth Lies Cold",
+      "year": 2025,
+      "durationMinutes": 3,
+      "rating": 6.5,
+      "ageRating": "13+",
+      "genres": [
+        "Ciencia ficción",
+        "Drama",
+        "Experimental"
+      ],
+      "collection": "Novedades abiertas",
+      "synopsis": "Un relato sobre una inteligencia artificial y el destino de la humanidad, editado con material de dominio público y Creative Commons.",
+      "director": "Cypress Butane",
+      "cast": [
+        "Cypress Butane"
+      ],
+      "archiveId": "the-stars-are-warm-the-earth-lies-cold",
+      "file": "The Stars Are Warm The Earth Lies Cold_720p.mp4",
+      "accent": "#818CF8",
+      "legal": "Creative Commons BY-ND 4.0"
+    },
+    {
+      "id": "resident-doctor-2024",
+      "type": "movie",
+      "title": "Médica residente",
+      "originalTitle": "Resident Doctor",
+      "year": 2024,
+      "durationMinutes": 23,
+      "rating": 6.4,
+      "ageRating": "16+",
+      "genres": [
+        "Drama",
+        "Romance",
+        "Independiente"
+      ],
+      "collection": "Novedades abiertas",
+      "synopsis": "Una médica residente sobrevive a jornadas agotadoras hasta que un error la deja sin trabajo. Su encuentro con el camarero de la clínica le abre una historia inesperada.",
+      "director": "Armando Sakos",
+      "cast": [
+        "Armando Sakos"
+      ],
+      "archiveId": "resident-doctor-2024",
+      "file": "Resident Doctor 2024.ia.mp4",
+      "accent": "#F9A8D4",
+      "legal": "Creative Commons BY-ND 4.0"
+    }
+  ]
+}
